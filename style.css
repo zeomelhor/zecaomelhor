@@ -7,10 +7,20 @@ background-color: rgb(0, 68, 255);
 
 }
 .img{
-width: 60%;
-
-
-
-
+width: 30%;
+display: flex;
+justify-content: left;
+}
+.img{
+width: 30%;
 
 }
+.img{
+width: 30%;
+
+}
+.img{
+    width: 30%;
+}
+
+
