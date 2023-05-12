@@ -10,25 +10,30 @@ background-color: rgb(0, 68, 255);
 width: 30%;
 display: flex;
 justify-content:center;
+margin: 0 20px;
 }
 .imgsmachi{
 width: 30%;
 display: flex;
-justify-content:center ;
+justify-content:center;
+margin: 0 20px;
 }
 .imgff{
 width: 30%;
 display: flex;
 justify-content:center ;
+margin: 0 20px;
 }
 .imggood{
 width: 30%;
 display: flex;
 justify-content:center ;
+margin: 0 20px;
 }
 .imgfortnite{
 width: 30%;
 display: flex;
 justify-content:center ;
+margin: 0 20px;
 }
 
