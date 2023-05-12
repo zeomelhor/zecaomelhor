@@ -6,21 +6,29 @@ background-color: rgb(0, 68, 255);
 
 
 }
-.img{
+.imgfifa{
 width: 30%;
 display: flex;
 justify-content: left;
 }
-.img{
+.imgsmachi{
 width: 30%;
-
+display: flex;
+justify-content: left;
 }
-.img{
+.imgff{
 width: 30%;
-
+display: flex;
+justify-content: left;
 }
-.img{
-    width: 30%;
+.imggood{
+width: 30%;
+display: flex;
+justify-content: left;
 }
-
+.imgfortnite{
+width: 30%;
+display: flex;
+justify-content: left;
+}
 
