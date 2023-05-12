@@ -1,4 +1,4 @@
-.cabecario{
+.cabecalho{
 background-color: rgb(0, 68, 255);
 
 
@@ -9,26 +9,26 @@ background-color: rgb(0, 68, 255);
 .imgfifa{
 width: 30%;
 display: flex;
-justify-content: left;
+justify-content:center;
 }
 .imgsmachi{
 width: 30%;
 display: flex;
-justify-content: left;
+justify-content:center ;
 }
 .imgff{
 width: 30%;
 display: flex;
-justify-content: left;
+justify-content:center ;
 }
 .imggood{
 width: 30%;
 display: flex;
-justify-content: left;
+justify-content:center ;
 }
 .imgfortnite{
 width: 30%;
 display: flex;
-justify-content: left;
+justify-content:center ;
 }
 
