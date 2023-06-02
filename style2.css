@@ -1,0 +1,26 @@
+.freee{
+    display: flex;
+justify-content: center;
+
+}
+
+.corpo2{
+background-color: chartreuse;
+
+
+}
+
+.geral14{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    margin-top: 10px;
+    
+
+
+}
+
+.sma{
+    width: 1800px;
+    margin: 54px;
+
+}

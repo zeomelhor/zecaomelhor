@@ -1,0 +1,27 @@
+.fif{
+display: flex;
+justify-content: center;
+
+
+}
+
+.corpo1{
+
+background-image: linear-gradient(blue,red);
+
+}
+
+.geral12{
+display: grid;
+grid-template-columns: 20% 20% 20% 20% 20%;
+margin-top: 10px;
+
+}
+
+
+
+.geral2{
+width: 1800px;
+margin: 54px;
+
+}
