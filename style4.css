@@ -1,0 +1,26 @@
+.crate{
+    display: flex;
+justify-content: center;
+
+}
+
+.corpo4{
+background-color:brown
+
+
+}
+
+.geral16{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    margin-top: 10px;
+    
+
+
+}
+
+.cc{
+    width: 1800px;
+    margin: 54px;
+
+}
