@@ -1,26 +1,47 @@
-.freee{
-    display: flex;
-justify-content: center;
+
+body{
+    background-image: url("jkkjlgkg.jpg");
+    background-size: cover;
+}
+.T1{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 250%;
+    position: absolute;
+top: 10%;
 
 }
-
-.corpo2{
-background-color: chartreuse;
-
-
+.T2{
+color: white;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 250%;
+position: absolute;
+top: 25%;
 }
-
-.geral14{
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
-    margin-top: 10px;
+.T3{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 250%;
+    position: absolute;
+    top: 40%;
+}
+.T4{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 250%;
+    position: absolute;
+   top: 55%;
+}
+.TT{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 280%;
+    position: absolute
+    to;
+}
+.IT{
+    width: 400px;
+    position: relative ;
+    margin-left: 1200px;
     
-
-
-}
-
-.sma{
-    width: 1800px;
-    margin: 54px;
-
 }
