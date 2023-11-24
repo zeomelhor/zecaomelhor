@@ -1,0 +1,30 @@
+.cor{
+    background-color: darkgrey;
+    justify-content: center;
+}
+
+
+.secc{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    right: 20px;
+
+}
+.te{
+    
+    
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size;: 1000%;
+position: initial
+text-justify: distribute-all-lines;
+
+
+}
+
+.tomate{
+display: flex;
+justify-content: center;
+height: 400px;
+}
