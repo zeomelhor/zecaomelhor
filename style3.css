@@ -9,22 +9,22 @@
     display: flex;
     justify-content: center;
     position: absolute;
-    right: 20px;
-
+    right:150px
 }
+
 .te{
-    
-    
+      
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-font-size;: 1000%;
-position: initial
-text-justify: distribute-all-lines;
-
-
+font-size: 35px;
+position: initial;position: absolute;
+margin-top: 10%;
+margin-top: 10%;
 }
 
 .tomate{
 display: flex;
 justify-content: center;
 height: 400px;
+position: relative;
+margin-top: 5%;
 }
