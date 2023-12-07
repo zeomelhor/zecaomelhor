@@ -13,7 +13,7 @@ background-color: darkgray;
     display: flex;
     justify-content: center;
     position: absolute;
-    right:15
+    right:50px;
 
 }mn{
     align-items: baseline;
@@ -22,6 +22,15 @@ background-color: darkgray;
     position: relative;
     display: flex;
     justify-content: center;
+    right:40px;
 
+}
+
+.uu{
+    display: flex;
+    justify-content: center;
+    right: -425px;
+    position: relative;
+    margin-top: 5%;
 
 }
