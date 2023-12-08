@@ -1,0 +1,29 @@
+body{
+    background-image: url("sojaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.jpg");
+    background-size: cover;
+}
+
+.t1{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 250%;
+    position: absolute;
+    top: 20%;
+    right: 650px;
+    display: flex;
+
+
+}
+
+.t2{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 250%;
+    position: absolute;
+    top: 40%;
+    right: 650px;
+    display: flex;
+right: 134px;
+
+
+}
