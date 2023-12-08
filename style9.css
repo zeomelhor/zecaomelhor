@@ -1,0 +1,29 @@
+body{
+    background-image: url("milhoaoaooaoaa.jpg");
+    background-size: cover;
+}
+
+.t1{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 250%;
+    position: absolute;
+    top: 20%;
+    right: 740px;
+    display: flex;
+
+
+}
+
+
+.t2{
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 250%;
+    position: absolute;
+    top: 45%;
+    right: 950px;
+    display: flex;
+right: 490px;
+
+}

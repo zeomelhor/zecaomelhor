@@ -1,0 +1,13 @@
+.im{
+    display: flex;
+    justify-content: center;
+    right: -465px;
+    position: relative;
+    margin-top: -15%;
+
+}
+
+.pp{
+background-color: rgb(130, 130, 211);
+
+}

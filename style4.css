@@ -9,11 +9,12 @@ background-color: darkgray;
 
 
 .Soja{
+    color: white;
     width: 80%;
     display: flex;
     justify-content: center;
     position: absolute;
-    right:50px;
+    right:100px;
 
 }mn{
     align-items: baseline;
@@ -22,14 +23,14 @@ background-color: darkgray;
     position: relative;
     display: flex;
     justify-content: center;
-    right:40px;
+ right: 400px;
 
 }
 
 .uu{
     display: flex;
     justify-content: center;
-    right: -425px;
+    right: -665px;
     position: relative;
     margin-top: 5%;
 
